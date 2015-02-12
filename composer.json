@@ -1,6 +1,6 @@
 {
-    "name": "torann/geoip",
-    "description": "Supports the two main GeoIP services (infoDB and Maxmind).",
+    "name": "diridam/geoip",
+    "description": "Supports the two main GeoIP services (infoDB and Maxmind) -> toran extension.",
     "keywords": ["laravel", "laravel4", "geoip", "location", "geolocation"],
 	"license": "BSD 2-Clause",
     "authors": [
